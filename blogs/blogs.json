@@ -1,0 +1,14 @@
+{
+  "repo": "horizon-quantum-computing",
+  "feeds": [
+    {
+      "source": "https://www.horizonquantum.com/product/early-access",
+      "feed_url": "https://www.horizonquantum.com/product/early-access",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}

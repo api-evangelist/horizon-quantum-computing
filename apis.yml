@@ -1,8 +1,16 @@
 aid: horizon-quantum-computing
 name: Horizon Quantum Computing
-description: Horizon Quantum Computing is a company surfaced as a portfolio company of dcvc and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Horizon Quantum Computing is a Singapore-based quantum software company founded in 2018 by
+  Dr. Joe Fitzsimons. It builds software infrastructure for quantum applications, centered on
+  Triple Alpha, an integrated development environment that lets developers write hardware-agnostic
+  quantum programs at multiple levels of abstraction and deploy them to quantum processors. Triple
+  Alpha's final workflow step packages a program and deploys it as an API so developers can invoke
+  quantum backends from Python scripts, web pages, and other technologies. Horizon operates its own
+  quantum computing testbed at its Singapore headquarters and supports a range of external quantum
+  processors, aiming to bridge the gap between today's quantum hardware and real-world applications.
+  The company does not currently publish a public developer API, OpenAPI specification, or client
+  SDK; API-based program deployment is offered to early-access users of the Triple Alpha platform.
 url: https://raw.githubusercontent.com/api-evangelist/horizon-quantum-computing/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +18,55 @@ x-backed-by:
 - dcvc
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://horizon-v2.cdn.prismic.io/horizon-v2/aYElUd0YXLCxVSCT_logo-triple-alpha-framed.svg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Quantum Computing
+- Quantum Software
+- Developer Tools
+- Integrated Development Environment
+- Compiler
+- Deep Tech
+- Singapore
 apis: []
+common:
+- type: Website
+  url: https://www.horizonquantum.com/
+- type: SignUp
+  url: https://www.horizonquantum.com/product/early-access
+- type: Blog
+  url: https://www.horizonquantum.com/resources/blog
+- type: Support
+  url: https://www.horizonquantum.com/company/contact
+- type: TermsOfService
+  url: https://www.horizonquantum.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.horizonquantum.com/privacy-policy
+- type: DomainSecurity
+  url: security/horizon-quantum-computing-domain-security.yml
+- type: LLMsTxt
+  url: llms/horizon-quantum-computing-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

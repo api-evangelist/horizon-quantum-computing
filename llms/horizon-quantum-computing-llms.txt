@@ -1,0 +1,36 @@
+# Horizon Quantum Computing
+
+> Singapore-based quantum software company (founded 2018 by Dr. Joe Fitzsimons) building software
+> infrastructure for quantum applications. Its Triple Alpha IDE lets developers write hardware-agnostic
+> quantum programs and deploy them to quantum processors as APIs. No public developer API, OpenAPI
+> specification, or client SDK is currently published; API-based deployment is offered to early-access
+> users of the Triple Alpha platform.
+
+## Product
+- [Triple Alpha IDE](https://www.horizonquantum.com/triple-alpha): Integrated development environment for quantum programming
+- [Core Capabilities](https://www.horizonquantum.com/product/core-capabilities): Subroutines from C, code portability
+- [Advanced Capabilities](https://www.horizonquantum.com/product/advanced-capabilities): Program optimization, measurement-based computation, dynamic memory management, pulse control
+- [Programming Languages](https://www.horizonquantum.com/product/programming-languages): Turing-complete quantum programming languages
+- [Early Access](https://www.horizonquantum.com/product/early-access): Register for Triple Alpha early access
+
+## Technology
+- [Software Infrastructure](https://www.horizonquantum.com/technology/software-infrastructure): Development, deployment, and execution infrastructure
+- [Quantum Systems & Integration](https://www.horizonquantum.com/technology/quantum-systems-and-integration): Supported quantum processors
+- [Hardware Testbed](https://www.horizonquantum.com/technology/hardware-testbed): Horizon's Singapore quantum computer
+
+## Resources
+- [Blog](https://www.horizonquantum.com/resources/blog)
+- [Newsroom](https://www.horizonquantum.com/resources/newsroom)
+- [Videos & Podcasts](https://www.horizonquantum.com/resources/videos-and-podcasts)
+- [Quantum Glossary](https://www.horizonquantum.com/resources/quantum-glossary)
+
+## Company
+- [About](https://www.horizonquantum.com/company/about)
+- [Mission](https://www.horizonquantum.com/company/mission)
+- [Careers](https://www.horizonquantum.com/company/careers)
+- [Contact](https://www.horizonquantum.com/company/contact)
+- [Investor Relations](https://investors.horizonquantum.com)
+
+## Legal
+- [Terms of Use](https://www.horizonquantum.com/terms-of-use)
+- [Privacy Policy](https://www.horizonquantum.com/privacy-policy)
